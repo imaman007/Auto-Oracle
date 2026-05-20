@@ -1,4 +1,5 @@
-# 🚘 Car Price Prediction App
+# Auto-Oracle:
+🚘 Car Price Prediction App
 
 A Machine Learning app built with **Streamlit** that predicts the selling price of used cars.  
 The app uses Linear Regression with preprocessing steps like one-hot encoding and scaling.
